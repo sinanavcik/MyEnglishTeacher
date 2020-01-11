@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyEnglishTeacher.Pages.Quiz"
+			 Title="Quiz">
+	<ContentPage.Content>
+
+		<StackLayout BackgroundColor="#91e2f4" x:Name="qLayout">
+			<Label Margin="20,10,20,10"  HorizontalOptions="Center" Text="Question of Day" FontSize="Title"/>
+			<Label HorizontalOptions="Center" FontSize="Title" x:Name="qLabel"/>
+			<Entry Placeholder="Write answer" Margin="20,30,20,30" x:Name="qEntry"/>
+			<Button CornerRadius="5"  Margin="20,10,20,10" BackgroundColor="DarkOliveGreen" x:Name="quizButton" Text="Answer" Clicked="quizButton_Clicked"/>
+			<Label HorizontalOptions="CenterAndExpand" FontSize="Title" BackgroundColor="Yellow" HeightRequest="40"  Margin="40" x:Name="succesLabel"/>
+		</StackLayout>
+
+	</ContentPage.Content>
+</ContentPage>

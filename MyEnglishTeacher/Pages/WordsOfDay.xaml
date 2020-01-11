@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyEnglishTeacher.Pages.WordsOfDay"
+			 Title="Words of Day">
+	<ContentPage.Content>
+		<ScrollView>
+			<StackLayout>
+				<Frame CornerRadius="5" 
+                   HorizontalOptions="FillAndExpand" 
+                   VerticalOptions="Start"
+                   HasShadow="True"
+                   IsClippedToBounds="True"
+                   Padding="0"
+                   Margin="10,0,10,10 "
+                   BackgroundColor="#FFFBD6"
+                   >
+					<Grid>
+						<Grid.RowDefinitions>
+							<RowDefinition Height="1*"/>
+							<RowDefinition Height="3*"/>
+						</Grid.RowDefinitions>
+
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="1*" />
+							<ColumnDefinition Width="1*" />
+						</Grid.ColumnDefinitions>
+
+						<Label Grid.Column="0" Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Title">English</Label>
+						<Label Grid.Column="1" Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Title">Turkish</Label>
+
+						<StackLayout Grid.Column="0" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" x:Name="myLayout2">
+
+						</StackLayout>
+						<StackLayout Grid.Column="1" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" x:Name="myLayout">
+
+						</StackLayout>
+
+					</Grid>
+
+				</Frame>
+				<Button x:Name="getBtn" Text="Get More" Clicked="getBtn_Clicked"></Button>
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+</ContentPage>

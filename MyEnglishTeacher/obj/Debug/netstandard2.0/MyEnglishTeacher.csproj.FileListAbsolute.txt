@@ -1,0 +1,16 @@
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\bin\Debug\netstandard2.0\MyEnglishTeacher.deps.json
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\bin\Debug\netstandard2.0\MyEnglishTeacher.dll
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\bin\Debug\netstandard2.0\ref\MyEnglishTeacher.dll
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\bin\Debug\netstandard2.0\MyEnglishTeacher.pdb
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\MyEnglishTeacher.csprojAssemblyReference.cache
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\MyEnglishTeacher.AssemblyInfoInputs.cache
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\MyEnglishTeacher.AssemblyInfo.cs
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\MyEnglishTeacher.dll
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\ref\MyEnglishTeacher.dll
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\MyEnglishTeacher.pdb
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\Pages\Quiz.xaml.g.cs
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\Pages\Translate.xaml.g.cs
+C:\Users\IKVE\source\repos\MyEnglishTeacher\MyEnglishTeacher\obj\Debug\netstandard2.0\Pages\WordsOfDay.xaml.g.cs

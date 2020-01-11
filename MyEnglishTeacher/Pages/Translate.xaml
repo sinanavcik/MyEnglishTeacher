@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyEnglishTeacher.Pages.Translate"
+			 Title="Translate">
+	<ContentPage.Content>
+		<StackLayout BackgroundColor="Snow">
+			<Entry Margin="20,30,20,30" x:Name="myEntry"/>
+			<Button CornerRadius="5"  Margin="20,30,20,30"  x:Name="myButton" Text="Translate" Clicked="myButton_Clicked"/>
+			<Label HorizontalOptions="CenterAndExpand" FontSize="Title" BackgroundColor="Yellow" HeightRequest="40"  Margin="40" x:Name="btnLabel" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
